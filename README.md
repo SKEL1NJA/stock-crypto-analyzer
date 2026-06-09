@@ -40,7 +40,7 @@ To run this project locally on your Windows machine, follow these steps:
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock-crypto-analyzer.git
+git clone https://github.com/SKEL1NJA/stock-crypto-analyzer.git
 cd stock-crypto-analyzer
 ```
 
